@@ -33,8 +33,9 @@ input:focus {
 
 .pokemon-container {
   float: left;
+  margin: 10px;
   width: 250px;
-  margin: auto;
+  /* margin: auto; */
 }
 
 .center-text {
